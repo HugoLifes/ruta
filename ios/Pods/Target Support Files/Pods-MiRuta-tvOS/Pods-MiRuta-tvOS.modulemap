@@ -1,0 +1,6 @@
+framework module Pods_MiRuta_tvOS {
+  umbrella header "Pods-MiRuta-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

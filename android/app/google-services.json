@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "779754847012",
+    "firebase_url": "https://route-7c21c.firebaseio.com",
+    "project_id": "route-7c21c",
+    "storage_bucket": "route-7c21c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779754847012:android:33d80b6078dbd84e",
+        "android_client_info": {
+          "package_name": "com.miruta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779754847012-fcj522m777olhv5ef417ng7su5oal7kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnWnYeWbJ1-hZHGxD7TZHqRgChZUtjCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779754847012-fcj522m777olhv5ef417ng7su5oal7kt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779754847012-feqqfv40dthv7b84q4fbmlagc14lfhmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.MiRuta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
