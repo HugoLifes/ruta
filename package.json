@@ -17,7 +17,7 @@
     "expo": "^32.0.6",
     "expo-app-auth": "^4.0.0",
     "expo-google-sign-in": "^4.0.0",
-    "firebase-admin": "^7.2.0",
+    "firebase-admin": "^11.4.1",
     "formik": "^1.5.1",
     "geojson": "^0.5.0",
     "google-auth-library": "^3.1.2",
